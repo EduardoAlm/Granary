@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /tezos/src/bin_client//../../_build/default/src/bin_client/main_client.exe -base-dir /tmp/tezos-tmp-client.VmmYOZoG -addr sandboxnet_node -port 18731 "$@"

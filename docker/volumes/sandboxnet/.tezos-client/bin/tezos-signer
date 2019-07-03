@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /tezos/src/bin_client//../../_build/default/src/bin_signer/main_signer.exe -base-dir /tmp/tezos-tmp-client.VmmYOZoG "$@"

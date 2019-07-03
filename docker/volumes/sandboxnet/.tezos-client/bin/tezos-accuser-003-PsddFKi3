@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /tezos/src/bin_client//../../_build/default/src/proto_003_PsddFKi3/bin_accuser/main_accuser_003_PsddFKi3.exe -base-dir /tmp/tezos-tmp-client.VmmYOZoG -addr sandboxnet_node -port 18731 "$@"
